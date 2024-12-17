@@ -27,7 +27,7 @@ The model is trained on the [Cats vs. Dogs dataset](https://drive.google.com/fil
 
 1. Clone the repository:
   
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/d-divyesh/Image-classification)
    cd <repository-directory>
    
 2. Install required packages:
