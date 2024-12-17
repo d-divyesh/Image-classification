@@ -22,7 +22,7 @@ This project is a Cat and Dog classification system built using Convolutional Ne
 
 ## Dataset
 
-The model is trained on the [Kaggle Cats vs. Dogs dataset](https://www.kaggle.com/c/dogs-vs-cats/data). Make sure to download the dataset and place it in the designated folder before running the code.
+The model is trained on the [Cats vs. Dogs dataset](https://drive.google.com/file/d/17YHaSX9-7ZifoSRKcoX5bPGQfcfpwJIG/view?usp=drive_link). Make sure to download the dataset and place it in the designated folder before running the code.
 
 ## Installation
 
@@ -54,3 +54,7 @@ Feel free to fork the repo and submit pull requests for enhancements or bug fixe
 ## License
 
 This project is licensed under the MIT License.
+
+## Important Link
+
+For more explanation about the project and code [Here](https://medium.com/@shrimalidivyesh4/building-a-cat-and-dog-classifier-using-cnn-in-python-efd1dc03e464)
