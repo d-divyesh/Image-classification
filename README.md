@@ -28,13 +28,14 @@ The model is trained on the [Cats vs. Dogs dataset](https://drive.google.com/fil
 1. Clone the repository:
   
    git clone https://github.com/d-divyesh/Image-classification
+   
    cd Image-classification
    
-2. Install required packages:
+3. Install required packages:
   
    pip install -r requirements.txt
    
-3. Download the dataset and update the path in the notebook.
+4. Download the dataset and update the path in the notebook.
 
 ## Usage
 
