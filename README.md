@@ -6,7 +6,6 @@ This project is a Cat and Dog classification system built using Convolutional Ne
 
 ## Features
 
-- User-friendly interface for image upload.
 - Accurate classification of images as either ‘Cat’ or ‘Dog’.
 - Built with deep learning techniques using CNNs.
 
